@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakib-BD-PLAYX</h1>
+<h1 align="center">Hi 👋, I'm Shakib</h1>
 <h3 align="center"> I am a Learning Student programmer from Rajshahi in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-bd-playx&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-bd-playx" /> </p>
